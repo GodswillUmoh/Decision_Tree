@@ -20,3 +20,6 @@ It means Classification and Regression Trees
 > + Prone to Overfitting: Can create overly complex trees that capture noise in the data.
 Sensitive to Data: Small changes in the dataset can lead to a completely different tree.
 > + Less Accurate for Large Datasets: May underperform compared to ensemble methods like Random Forest or Gradient Boosting.
+
+## Decision Tree Graph
+[Click here to view graph explanation](https://ibb.co/PNzWB2P)
