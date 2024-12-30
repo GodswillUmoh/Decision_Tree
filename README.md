@@ -22,4 +22,5 @@ Sensitive to Data: Small changes in the dataset can lead to a completely differe
 > + Less Accurate for Large Datasets: May underperform compared to ensemble methods like Random Forest or Gradient Boosting.
 
 ## Decision Tree Graph
-[Click here to view graph explanation](https://ibb.co/PNzWB2P)
++ [Click here to view graph explanation](https://ibb.co/PNzWB2P)
++ [View Another Graph, Click Here](https://ibb.co/db8W8ZC)
